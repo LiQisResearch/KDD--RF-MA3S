@@ -4,6 +4,8 @@ This repository is the implementation of our KDD'31 Research Track paper:
 
 > Diversity Optimization for Travelling Salesman Problem via Deep Reinforcement Learning. Qi Li, Zhiguang Cao, Yining Ma, Yaoxin Wu, Yue-Jiao Gong. KDD 2025.
 
+---> [arxiv](https://arxiv.org/abs/2501.00884)
+
 ## Contact
 
 >researchliqi@gmail.com
