@@ -14,7 +14,7 @@ RF-MA3S is a solver capable of solving query route tasks such as Traveling Sales
 - **Relativization Filter (RF)** : It is designed to enhance the encoder’s robustness against affine transformations (translation, rotation, scaling) of the input data, ingeniously embedding explicit invariance to potentially improve the quality of the discovered solutions.<br>
 - **Multi-Attentive Adaptive Active Search (MA3S)** : It is tailored to enable the decoders to learn or mine data within different solution spaces, striking a balance between optimality and diversity.
 
-![image](https://github.com/user-attachments/assets/ab9ba163-1fed-4c78-8142-0fe6bb0197ee)
+![image](fig/fig1.png)
 
 ## Dependencies
 ```
@@ -66,7 +66,7 @@ The **test data** folder contains:
 
 (1) [MSTSPLIB](https://github.com/GnauhGnit/MSTSP) , <br>
 
-![image](https://github.com/user-attachments/assets/fd2d45cd-43d2-4c08-bcb6-ba25ea454965)
+![image](fig/fig2.png)
 
 
 <div style="text-align: center;">
